@@ -1,6 +1,7 @@
-# magic_8_ball
+# Ask Me Anything
 
 A new Flutter project.
+which gives answers to your problems
 
 ## Getting Started
 
